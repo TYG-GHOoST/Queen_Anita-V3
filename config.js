@@ -67,10 +67,17 @@ global.autoreadmessages = false;
 global.chatbot = false;
 global.autoreact = false;
 
+global.welcome = false;
+
 global.prefix = '.';
 
 global.autobio = false;
 
+global.antilink = false;
+
+global.antilinkkick = false;
+
+global.antilinkwarn = false;
 
 //_____________//
 // Don't change it
